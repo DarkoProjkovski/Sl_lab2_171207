@@ -1,10 +1,10 @@
 # Sl_lab2_171207
- Laboratoriska 2 po Sovtversko Inzenerstvo
+ Втора лабораториска по Совтверско Инженерство
 
-1.Slika od CFG ima vo repoto imenuvana "Control flow graph.png"
+1.Сликата од CFG ја има во репото иманувана "Control flow graph.png".
 
-2.Na slikata od CFG ja ima presmetkata na ciklicnosta na CFG so toa sto e zemen brojot na jazli odzemen brojot na teminja i dodadeno 2
+2.На сликата од CFG ја има пресметката на цикличната комплексност(E-N+2) на CFG сo тoa што е земен бројот на јазли(34) одземен бројот на темиња(28) и додадено 2 и се добива 8.
 
-3.Test slucaite za Every Branch se zapishani vo excel dokumentot kade se sto ima test primeri koj gi pokrivaat site jazli, dodeka za Multiple condition testovite se zemeni(pa i za Every Branch) vrs sekoj primer vo SlLab2Test.java fajlot ima objasnuvanje zosto e izbran i pisuva koj ulsov go ispolnuva.
+3.Тест случаите за Every Branch се запишани во Еxcel документот имануван "Every Branch.xlsx" каде што има тест примери кој ги покриваат сите јазли, додека за Multiple condition тестовите се запошани(па и за Every Branch) врс секој пример во SlLab2Test.java фајлот каде има објаснување зошто е избран и пишува кој услов го исполнува.
 
-4.Za Every Branch testovite napraviv po eden test za sekoj od IF/ELSE IF/ELSE so koe uspev da gi pominam site pateki/branches, dodeka za Multiple condition testovite kaj "ILI" uslovot napraviv test za:(T=true, F= false, X=bilo sto) "T ili X", "F ili T", "F ili F" so koj gi pokrivam site mozni ulsovi, dodeka za "I" uslovot: "F i X i X"( no ovoj uslov ne e vozmozen bidejki programata ke se spravi porano so nego), "T i F i X", "T i T i F", "T i T i T" 
+4.За Every Branch тестовите направив по еден тест за секој од IF/ELSE IF/ELSE со кое успеав да ги поминам сите патеки/branches, додека за Multiple condition тестовите кај "ИЛИ" условот направив тест за:(T=true, F= false, X=било што) "T ИЛИ X", "F ИЛИ T", "F ИЛИ F" со кој ги покрив сите можни услови, додека за "И" условот: "F И X И X"(но овој услов не е возможен бидејќи програмата ќе се справи со него порано), "T И F И X", "T И T И F", "T И T И T" 
